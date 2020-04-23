@@ -16,7 +16,7 @@ dict_counter={}
 for i in range(G.number_of_nodes()):
     dict_counter[i]=0
 dict_counter[x]=dict_counter[x]+1
-for i in range(1000000):
+for i in range(1000000):    #we iterate here and wait for convergence of the points distributed
     list_n= list(G.neighbors(x))
     if(len(list_n)==0):   #if x is sink(no neighbor)
         x=random.choice([i for i in range(G.number_of_nodes())])
