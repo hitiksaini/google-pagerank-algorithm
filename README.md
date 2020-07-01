@@ -13,7 +13,7 @@ INSTALL NETWORKXX, THEN JUST FOLLOW THE CODE👍
 # Few important things
 ## Strengthening Your Keyword Strategy
 
-“Winemaking Certificate Program” – UC Davis Extension
+Tips from-> “Winemaking Certificate Program” – UC Davis Extension
 
 https://extension.ucdavis.edu/areas-study/winemaking/winemaking-certificate-program
 
