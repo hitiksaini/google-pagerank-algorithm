@@ -1,5 +1,4 @@
-# Google-PageRank-Algorithm
-## Project by [Hitik Saini](https://hitik20.tech/)
+## Google-PageRank-Algorithm
 
 Ever wonder that how a website is ranked by Google to appear in your top result after you search 
 It works on graphs logic-  a random walk is made onto each website assigned as nodes, and the hyperlinks as edges
@@ -7,11 +6,11 @@ the highest number visited to a node(website) after the random walk is ranked fi
 
 There are various Algorithms which keep on upgrading constantly to give you the best search possible.
 
-## Dependencies
+### Dependencies
 INSTALL NETWORKXX, THEN JUST FOLLOW THE CODE👍
 
-# Few important things
-## Strengthening Your Keyword Strategy
+## Few important things
+### Strengthening Your Keyword Strategy
 
 Tips from-> “Winemaking Certificate Program” – UC Davis Extension
 
